@@ -1,0 +1,32 @@
+#grad4 {
+    height: 780px;
+    background-color: red;
+    background-image: linear-gradient(-90deg, red, yellow); /* Standard syntax (must be last) */
+}
+
+.search {
+    position: absolute;
+    padding: 35px 10px;
+    margin: 8px 0;
+    left: 410px;
+    top: 10%;
+}
+
+.lol {
+    height: 36px;
+    width: 17em;
+}
+
+.realb {
+    height: 42px;
+    width: 26em;
+    background-color:rgb(224, 79, 79);
+    color: white;
+    border: 3px solid gray;
+    
+}
+
+.topnav {
+    background-color: black;
+    height: 50px;
+}
